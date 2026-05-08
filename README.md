@@ -1,4 +1,4 @@
-<img width="464" height="533" alt="Screenshot 2026-05-08 184156" src="https://github.com/user-attachments/assets/71270758-a3a2-4953-bb57-bf0ce28cb44b" /># Weather App 🌤️
+# Weather App 🌤️
 
 A desktop weather application built with Python and PyQt5 that fetches real-time weather data using the OpenWeatherMap API.
 

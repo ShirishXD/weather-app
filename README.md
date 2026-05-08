@@ -30,7 +30,7 @@ A desktop weather application built with Python and PyQt5 that fetches real-time
 2. Install dependencies
    pip install PyQt5 requests
 3. Get a free API key from openweathermap.org
-4. Replace YOUR_API_KEY_HERE in main.py with your key
+4. Replace "YOUR_API_KEY_HERE" in main.py with your key
 5. Run main.py
 
 ## Built With
